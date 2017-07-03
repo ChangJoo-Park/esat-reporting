@@ -1,0 +1,21 @@
+{
+  "app.css": "http://0.0.0.0:8080/packs/app.css",
+  "app.js": "http://0.0.0.0:8080/packs/app.js",
+  "app/app.css": "http://0.0.0.0:8080/packs/app/app.css",
+  "app/app.js": "http://0.0.0.0:8080/packs/app/app.js",
+  "app/index.css": "http://0.0.0.0:8080/packs/app/index.css",
+  "app/index.js": "http://0.0.0.0:8080/packs/app/index.js",
+  "app/pages/Index.css": "http://0.0.0.0:8080/packs/app/pages/Index.css",
+  "app/pages/Index.js": "http://0.0.0.0:8080/packs/app/pages/Index.js",
+  "app/router/index.css": "http://0.0.0.0:8080/packs/app/router/index.css",
+  "app/router/index.js": "http://0.0.0.0:8080/packs/app/router/index.js",
+  "application.js": "http://0.0.0.0:8080/packs/application.js",
+  "hello_vue.css": "http://0.0.0.0:8080/packs/hello_vue.css",
+  "hello_vue.js": "http://0.0.0.0:8080/packs/hello_vue.js",
+  "layout.js": "http://0.0.0.0:8080/packs/layout.js",
+  "profile/Profile.css": "http://0.0.0.0:8080/packs/profile/Profile.css",
+  "profile/Profile.js": "http://0.0.0.0:8080/packs/profile/Profile.js",
+  "profile/app.css": "http://0.0.0.0:8080/packs/profile/app.css",
+  "profile/app.js": "http://0.0.0.0:8080/packs/profile/app.js",
+  "project_show.js": "http://0.0.0.0:8080/packs/project_show.js"
+}
